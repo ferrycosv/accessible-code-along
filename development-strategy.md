@@ -2,7 +2,7 @@
 
 ## Wireframe
 
-> include a link to your wireframe, [wireframe.cc](https://wireframe.cc) is a good starting tool
+> [https://wireframe.cc/MrzFmR](https://wireframe.cc/MrzFmR) sample wireframe
 
 ## Steps Plan
 
@@ -13,9 +13,9 @@
 | __Live Boilerplate__ | As an enthusiastic HYF student I can navigate to an empty website so that I know the project is set up correctly | An empty template project with `doctype`, language, charset, `head` & `body`, and hide/reveal script & styles | an empty main `style.css` and an existing evaluation style |
 |  | |  |  |
 | ... | ... | ... | ... |
-| (descriptive name) | (user story) | (what did you add to the HTML?) | (what did you add to the CSS?) |
-
-
+| __Step 1: create the wireframe of the website I'm trying to reverse engineer__ | As a HYF student, I want to preview how the basic layout of my website will look like, so that I can start writing the HTML needed | No changes | No changes |
+| __Step 2: inspect the HTML and CSS code of the site I want to reproduce__ | As a HYF student, I want to inspect the code of the site I want to mock-up, so that I can learn how to inspect HTML in a modern web browser and see the code hidden to render the page | No changes | No changes |
+| __Step 3: create the form to capture data__ | As a HYF student, I want to create an input form, so that I can learn how to submit data to a webpage | Create the input form and basic layout of the webpage | No changes |
 ---
 ---
 
